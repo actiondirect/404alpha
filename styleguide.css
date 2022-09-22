@@ -1,0 +1,24 @@
+:root { 
+  --alabaster: #fafafa;
+  --black: #000000;
+  --cararra: #ebebeb;
+  --cultured-pearl: #f5f5f5;
+  --fuscous-gray: #555555;
+  --gunsmoke: #858585;
+  --mountain-mist: #999999;
+  --true-v: #8556e3;
+  --white: #ffffff;
+ 
+  --font-size-l2: 14px;
+  --font-size-m2: 13px;
+  --font-size-s2: 10px;
+  --font-size-xl2: 20px;
+  --font-size-xs2: 12px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-apple_sd_gothic_neo-bold: "Apple SD Gothic Neo-Bold", Helvetica;
+  --font-family-apple_sd_gothic_neo-regular: "Apple SD Gothic Neo-Regular", Helvetica;
+  --font-family-sf_pro_display-bold: "SF Pro Display-Bold", Helvetica;
+  --font-family-sf_pro_display-regular: "SF Pro Display-Regular", Helvetica;
+}
